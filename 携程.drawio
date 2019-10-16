@@ -1,1 +1,54 @@
-<mxfile host="www.draw.io" modified="2019-10-16T11:06:15.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="AsxE7S6-qjmPcbpukoLV" version="12.1.1" type="github" pages="1"><diagram id="aKMHwKRa75FfLoCxhGyF" name="Page-1">1ZZNb6MwEIZ/DcdUgGOoj23a/Tiseoiqqr1EXjwBrwymxgTSX98hmBA2itRe2uSAGN6ZscfzjACPLPL2p+Fl9kcLUF7oi9Yjd14YRnFA8NYp214J4jjuldRI4bRRWMo3cKLv1FoKqCaBVmtlZTkVE10UkNiJxo3RzTRsrdV015KncCQsE66O1ScpbNarhPj+6PgFMs3c1vPo2qXkfIh2oVXGhW4OJHLvkYXR2vZW3i5Ade0bGtPn/Tjh3VdmoLAfSXhks5fH6vXOfygS8fxbpZL8m7lVNlzV7sReGClc71bIDZppZw7SWuNOeBC7de2JXms9OGbVDt4NBsz9sh2dB6vwvESj+Ft1N2v4RsFKi+oKr5U2AsxKgOVS/R86FICH62uY1oXypNpwUmRodF0I6Lrgo7vJpIVlyZPO2+DYopbZXOFTsM/egLHQnmx0sMeHkw86B2u2GOISZsGA3E09YSzqhWacIcpcUHYwPsEwV9zNbbpffSSLhoP7CdDzswGd1JXFQ5nLhkyjI8b0ijEWU3pNGYnpEfD51wKnZwO8NHpdJ/ay+AYxO3PA0dkA3r26LwxvQOl34cXH8au/8x38PZH7dw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-16T11:26:15.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="-5eT4fCWApfcR6d0zDF0" version="12.1.1" type="github" pages="1">
+  <diagram id="aKMHwKRa75FfLoCxhGyF" name="Page-1">
+    <mxGraphModel dx="6226" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=10;" edge="1" parent="1" target="uQx-kSYDdffZQ13qFdLW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="3980" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="180" y="3680"/>
+              <mxPoint x="888" y="3680"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9-ZUsqD0OncdYIlgi3j-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;&amp;nbsp;交易详情表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;travle_ods.ods_order_detail&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="3996" width="590" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="1" source="U9-ZUsqD0OncdYIlgi3j-4" target="uQx-kSYDdffZQ13qFdLW-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="U9-ZUsqD0OncdYIlgi3j-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;用户表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;&amp;nbsp;travle_ods.ods_customer&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="4000" width="490" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="1" source="U9-ZUsqD0OncdYIlgi3j-5" target="uQx-kSYDdffZQ13qFdLW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2034" y="3680"/>
+              <mxPoint x="1331" y="3680"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9-ZUsqD0OncdYIlgi3j-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;产品表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;&amp;nbsp;travle_ods.ods_profuct&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1790" y="3996" width="490" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=10;" edge="1" parent="1" source="U9-ZUsqD0OncdYIlgi3j-6" target="uQx-kSYDdffZQ13qFdLW-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="U9-ZUsqD0OncdYIlgi3j-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;交易订单&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;&amp;nbsp;travle_ods.ods_order&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="3996" width="490" height="114" as="geometry"/>
+        </mxCell>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=10;" edge="1" parent="1" source="uQx-kSYDdffZQ13qFdLW-1" target="uQx-kSYDdffZQ13qFdLW-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-1" value="&lt;font style=&quot;font-size: 40px&quot;&gt;订单支付明细&lt;br&gt;travle_dwd.dwd_pay_detail&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="3380" width="590" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="uQx-kSYDdffZQ13qFdLW-8" value="&lt;font style=&quot;font-size: 40px&quot;&gt;支付类统计指标&lt;br&gt;travle_ads.ads_pay&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="3050" width="590" height="130" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
